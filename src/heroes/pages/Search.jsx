@@ -28,7 +28,7 @@ export const Search = () => {
   const showError = q.length > 0 && heroes.length === 0;
 
   return (
-    <div className="row ">
+    <div className="row  ">
       <h1 className="mt-3">Search</h1>
       <hr />
       <div className="col-5 mt-3">

@@ -1,3 +1,3 @@
 
 export  * from "./pages"
-export * from "./routes/heroesRoutes"
+export * from "./routes/HeroesRoutes"
